@@ -1,0 +1,4 @@
+https://en.wikipedia.org/wiki/Knight%27s_tour
+
+Implement a simple version of Kinght's tour to traverse all sequares on the board
+Actually implementation is based on Warnsdorf's rule as described in wiki page above
